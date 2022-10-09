@@ -1,0 +1,3 @@
+docker compose up // SUBIR OS CONTAINERS
+docker compose down //DESCER OS CONTAINERS
+rm -rf node_modules //TIRA AS NODE MODULES
